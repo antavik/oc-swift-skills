@@ -1,0 +1,12 @@
+[submodule "SwiftUI-Agent-Skill"]
+	path = SwiftUI-Agent-Skill
+	url = git@github.com:twostraws/SwiftUI-Agent-Skill.git
+[submodule "SwiftData-Agent-Skill"]
+	path = SwiftData-Agent-Skill
+	url = git@github.com:twostraws/SwiftData-Agent-Skill.git
+[submodule "Swift-Concurrency-Agent-Skill"]
+	path = Swift-Concurrency-Agent-Skill
+	url = git@github.com:twostraws/Swift-Concurrency-Agent-Skill.git
+[submodule "Swift-Testing-Agent-Skill"]
+	path = Swift-Testing-Agent-Skill
+	url = git@github.com:twostraws/Swift-Testing-Agent-Skill.git
